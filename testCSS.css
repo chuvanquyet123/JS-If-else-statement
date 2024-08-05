@@ -1,0 +1,13 @@
+span {
+    background-color: blue;
+}
+
+button {
+    border-radius: 10px;
+    height: 1cm;
+}
+button:hover{
+    opacity: 0.6;
+    background-color: rgb(137, 223, 238);
+    
+}
